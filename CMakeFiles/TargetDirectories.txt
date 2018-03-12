@@ -1,0 +1,3 @@
+C:/Users/EmreAydn/Downloads/Assignment3/build/CMakeFiles/media_fundamentals.dir
+C:/Users/EmreAydn/Downloads/Assignment3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/EmreAydn/Downloads/Assignment3/build/CMakeFiles/ZERO_CHECK.dir
